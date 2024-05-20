@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/omar-khaled-a8a060207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-khaled-a8a060207" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-baraka-3b832a250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-baraka-3b832a250" height="30" width="40" /></a>
 <a href="https://instagram.com/mohamed_brkv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_brkv" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/brkv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="brkv" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/barakamohamed946" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="barakamohamed946" height="30" width="40" /></a>
