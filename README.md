@@ -17,7 +17,7 @@
 <a href="https://instagram.com/omar2_2khalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omar2_2khalid" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/omar9616khalid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="omar9616khalid" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/omar96136khalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omar96136khalid" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/omarkhalaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="omarkhalaf" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/brkv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="brkv" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/omar96136khalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omar96136khalid" height="30" width="40" /></a>
 </p>
 
