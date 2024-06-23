@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Baraka</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=118814&center=true&vCenter=true&random=false&width=800&height=100&lines=I'm+a+Node.js+developer;Senior+IS+Student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=118814&center=true&vCenter=true&random=false&width=800&height=100&lines=I'm+a+Software+developer;Senior+IS+Student" alt="Typing SVG" /></a>
 <br>
 - 🔭 I’m currently working on my graduation project Learn-Gate (E-Learning Platform)
 
