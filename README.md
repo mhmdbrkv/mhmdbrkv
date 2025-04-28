@@ -1,13 +1,31 @@
 <h1 align="center">Hi 👋, I'm Mohamed Baraka</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=118814&center=true&vCenter=true&random=false&width=800&height=100&lines=I'm+a+Software+developer;Senior+IS+Student" alt="Typing SVG" /></a>
 <br>
-- 🔭 I’m currently working on my graduation project Learn-Gate (E-Learning Platform)
+Summary:
 
-- 🌱 I’m currently learning **Back-End using NodeJS**
+I’m a passionate Backend Developer with a strong foundation in Node.js, Express.js, TypeScript, and MongoDB, and growing expertise in AWS cloud services and system design.
+
+A Computer Science graduate from Suez Canal University, I specialize in building scalable, secure, and high-performance RESTful APIs and real-time applications. Through projects like Learning Gate (award-winning e-learning platform) and E-Commerce Store (full production-ready backend), I have demonstrated my ability to deliver solutions that meet real-world demands.
+
+My technical stack includes Node.js, TypeScript, MongoDB, Redis, and Docker, and I’m expanding my skills into advanced database management, backend testing (Jest, Supertest), and cloud deployment (AWS).
+
+I strongly believe in writing clean, maintainable code and practicing SOLID principles, system security, caching strategies, and continuous learning.
+
+Currently, I’m seeking backend or full-stack opportunities where I can contribute to impactful products, scale backend systems, and work with talented engineering teams.
+
+Let’s connect! 🚀
+
+Tech Stack: Node.js | Express.js | TypeScript | MongoDB | Redis | AWS (EC2, S3) | Docker | Jest | PostgreSQL
+
+Interests: System Architecture, API Security, Cloud Computing, Open-Source Contribution, Software Scalability.
+
+- 🔭 I’m currently working on my side project.
+
+- 🌱 I’m currently learning **Object-Oriented Programming (OOP) and the SOLID principles**.
 
 - 🏫 I am a senior IS student at [Faculty of Computers & Informatics](https://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/)
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Backend**
 
 - 📫 How to reach me **barakamohamed946@gmail.com**
 
